@@ -1,0 +1,77 @@
+{
+    "DNA repair/replication": [
+        "recombinase", "RecF", "endonuclease", "mre11", "mutat", "nuclease", "ligase", "helicase", 
+        "DNA-binding", "DNA-invertase", "exonuclease", "DNA polymerase", "primase", "topoisomerase", 
+        "gyrase", "partition", "replication", "origin binding", "chromosome", "replication fork",
+        "RecBCD", "DNA-binding", "UvrABC",
+        "Tyrosine recombinase"
+    ],
+    "Mobile Genetic Element": [
+        "mobile", "transpos", "phage", "prophage", "integrase", "mobiliz", "plasmid", "virus", 
+        "insertion", "transposase", "repfib", "segrega", "gamma-delta resolvase"
+    ],
+    "Restriction-modification": [
+        "restriction enzyme", "methylase", "restriction-modification system", "RM system"
+    ],
+    "Transcription regulation": [
+        "transcriptional regulator", "repressor", "activator", "sigma factor", 
+        "transcription factor", "RNA polymerase", "helix-turn-helix", "HTH-type transcriptional regulator", 
+        "RNA polymerase-associated protein", "transcriptional activator", "transcriptional repressor", 
+        "HTH-type transcriptional regulator HdfR", "transcriptional", "RNA polymerase"
+    ],
+    "Translation": [
+        "ribosomal protein", "translation", "rps", "rpl", "translation initiation", "elongation factor", 
+        "EF-Tu", "EF-G", "aminoacyl-tRNA", "peptidase", "peptidyl transferase", "ribosome", "rRNA", 
+        "tRNA", "chaperonin", "carboxypeptidase", "aminopeptidase", "aminoacyl-tRNA synthetase", 
+        "methionine sulfoxide reductase"
+    ],
+    "Metabolism": [
+        "dehydrogenase", "kinase", "synthase", "transferase", "carboxylase", "metabol", "catabol", 
+        "anabol", "phosphatase", "isomerase", "reductase", "ATP synthase", "cytochrome", "oxidase", 
+        "photosynthesis", "respiratory", "ferredoxin", "NADH dehydrogenase", "ATP", "GTP", "ADP", 
+        "energy", "GTPase", "ATPase", "glycolysis", "gluconeogenesis", "pentose phosphate pathway", 
+        "TCA cycle", "beta-oxidation", "oxidative phosphorylation", "electron transport chain", 
+        "fermentation", "anhydrase", "glycosyltransferase", "acetyltransferase", "oxidoreductase", "urease", 
+        "aldolase", "mutase", "lyase", "hydrolase", "aminotransferase", 
+        "Putrescine--pyruvate aminotransferase", "NADP/NAD-dependent aldehyde dehydrogenase PuuC", "Cyclic di-GMP phosphodiesterase PdeB", "Cyclic di-GMP phosphodiesterase PdeR"
+    ],
+    "Membrane transport": [
+        "permease", "transporter", "ABC transporter", "porin", "export", "import", "secretion", 
+        "channel", "pump", "efflux", "uptake", "translocase", "transport", "antiporter", "ion transport", 
+        "cation transport", "ATP-binding protein"
+    ],
+    "Cell wall/membrane": [
+        "peptidoglycan", "teichoic acid", "lipopolysaccharide", "capsule", "O-antigen", "LPS", 
+        "outer membrane", "periplasmic protein", "usher protein", "fimbrial chaperone", "anchoring protein"
+    ],
+    "Stress response": [
+        "heat shock", "cold shock", "oxidative stress", "osmotic stress", "chaperone", "peroxidase", 
+        "catalase", "general stress protein"
+    ],
+    "Virulence": [
+        "virulence", "toxin", "hemolysin", "adhesin", "invasin", "pathogenicity", "colonization", 
+        "exotoxin", "endotoxin", "flagella", "pili", "fimbriae", "biofilm", "quorum sensing", 
+        "antigen", "invasion", "immunoglobulin", "antiphagocytic", "immunosuppressive", "secretion system", 
+        "dispersion protein", "Phospholipase D"
+    ],
+    "Signal transduction": [
+        "sensor", "response regulator", "two-component system", "chemotaxis", "signal transduction", 
+        "histidine kinase"
+    ],
+    "Phage-related": [
+        "bacteriophage", "phage", "capsid", "tail", "holin", "lysin", "terminase", "prophage integrase"
+    ],
+    "Resistance": [
+        "antibiotic resistance", "antimicrobial resistance", "drug resistance", "efflux pump", 
+        "beta-lactamase", "tetracycline", "aminoglycoside", "quinolone", "sulfonamide", "chloramphenicol", 
+        "vancomycin", "colistin", "fosfomycin", "rifampin", "multidrug resistance", "resistance"
+    ],
+    "Cell division": [
+        "Fts", "divisome", "min system", "septum", "cell division", "tubulin", "MreB", "FtsZ", 
+        "cell cycle", "cell growth", "cell shape", "cell elongation"
+    ],
+    "Motility": [
+        "flagellin", "flagellar", "motility", "fimbrial", "chemotaxis", "aerotaxis", "pili", "pilus", 
+        "twitching", "swarming"
+    ]
+}
