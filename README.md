@@ -1,1 +1,2 @@
 # panHGT
+This is a collection of scripts originally written from June 2024 to April 2025 to infer horizontal gene transfer from a pangenome. The scripts are of varying complexities as I used this project as a learning experience for my undergraduate thesis. For example, the mgeProximity.sh script is far more complex than the other scripts since I used this script as a way to learn more complex shell commands. In the future I may update these scripts to work more cohesively and have similar console logging, but for now I am leaving them as is.
